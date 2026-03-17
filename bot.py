@@ -5,7 +5,7 @@ import time
 import sqlite3
 import random
 
-TOKEN = os.getenv("DISCORD_TOKEN")
+TOKEN = os.getenv("TOKEN")
 
 WELCOME_CHANNEL_ID = 1414762426758463598
 GOODBYE_CHANNEL_ID = 1460384380437659710
